@@ -1,3 +1,6 @@
+v1.62 - Reupload/Hotfix
+ - Fixed: InitPost eventhandler typo
+
 v1.61 - Hotfix
  - Fixed: Removed leftover test logging from projectile tracking
 

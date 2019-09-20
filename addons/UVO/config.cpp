@@ -3,7 +3,7 @@
 class CfgPatches {
 	class UVO {
 		name = "Unit Voice-overs";
-		author = "UVO Team";
+		author = "Simplex Team";
 		authors[] = {"Gokmen","Sceptre"};
 		url = "https://github.com/the0utsider/unit-voiceovers";
 		units[] = {};

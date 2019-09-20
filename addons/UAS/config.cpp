@@ -1,11 +1,11 @@
 #define VERSION "0.1"
-#define REQUIRED_VERSION 1.88
+#define REQUIRED_VERSION 1.9
 
 class CfgPatches {
 	class UAS {
 		name = "Unit Ambient SFX";
 		version = VERSION;
-		author = "UAS Team";
+		author = "Simplex Team";
 		authors[] = {"Sceptre","Gokmen"};
 		url = "";
 		units[] = {};

@@ -1,12 +1,12 @@
 name = "Unit Voice-overs";
 picture = "uvo.paa";
 actionName = "Website";
-action = "https://github.com/the0utsider/unit-voiceovers/wiki";
+action = "https://github.com/SceptreOfficial/unit-voiceovers";
 description = "Unit Voice-overs";
 logo = "uvo.paa";
 logoOver = "uvo.paa";
 tooltip = "Unit Voice-overs";
 tooltipOwned = "Unit Voice-overs Owned";
 overview = "Dynamic, randomized 3D positional sound fx for units in Arma.";
-author = "UVO Team";
+author = "Simplex Team";
 overviewPicture = "uvo.paa";
