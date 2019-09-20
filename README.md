@@ -1,8 +1,7 @@
 # Unit Voice-overs
 
-**Current Version:** 1.6 "Suppression Update"
-
-See our Wiki for more documentation: https://github.com/the0utsider/unit-voiceovers/wiki
+**Current Version:** 1.62
+See our Wiki for more documentation: https://github.com/SceptreOfficial/unit-voiceovers/wiki
 
 **Authors**
 
@@ -53,24 +52,10 @@ Using NWI's 'Insurgency' sound samples, this mod was created to improve the over
 - Ambient sounds at random intervals
 - Units will be quiet when in stealth mode
 
-# Installation
-
 **Requirements**
 
 CBA_A3: https://steamcommunity.com/sharedfiles/filedetails/?id=450814997
 
-**Download**
+**License**
 
-Subscribe via Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=1248372833
-
----
-
-The MIT License (MIT)
-
-Copyright (c) 2018 Gokmen 'the0utsider'
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
