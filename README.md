@@ -1,6 +1,7 @@
 # Unit Voice-overs
 
 **Current Version:** 1.62
+
 See our Wiki for more documentation: https://github.com/SceptreOfficial/unit-voiceovers/wiki
 
 **Authors**
@@ -58,4 +59,4 @@ CBA_A3: https://steamcommunity.com/sharedfiles/filedetails/?id=450814997
 
 **License**
 
-MIT License
+MIT License: https://github.com/SceptreOfficial/unit-voiceovers/blob/master/LICENSE
