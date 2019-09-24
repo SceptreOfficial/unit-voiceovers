@@ -59,4 +59,6 @@ CBA_A3: https://steamcommunity.com/sharedfiles/filedetails/?id=450814997
 
 **License**
 
-MIT License: https://github.com/SceptreOfficial/unit-voiceovers/blob/master/LICENSE
+This project is licensed under the MIT License: https://github.com/SceptreOfficial/unit-voiceovers/blob/master/LICENSE
+
+All non-ambient sounds are licensed under the NWI No Derivatives Public License: https://store.steampowered.com/eula/447820_eula_0
